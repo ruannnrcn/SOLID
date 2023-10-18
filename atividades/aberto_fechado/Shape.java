@@ -30,6 +30,6 @@ public class Shape {
     }
 
     private void drawTriangle() {
-        System.out.println("Drawing a triangle");
+        
     }
 }
